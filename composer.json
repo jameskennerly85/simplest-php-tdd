@@ -1,0 +1,14 @@
+{
+    "name": "jameskennerly/tdd-php",
+    "description": "Simple php application to demonstrate TDD in its simplest mean.",
+    "authors": [
+        {
+            "name": "James Kennerly",
+            "email": "jimmykennerly@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^6.1"
+    }
+}
