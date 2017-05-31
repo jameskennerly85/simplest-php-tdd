@@ -10,5 +10,8 @@
     "require": {},
     "require-dev": {
         "phpunit/phpunit": "^6.1"
+    },
+    "scripts": {
+        "phpunit": "phpunit --bootstrap classes/Customer.php tests/CustomerTest.php"
     }
 }
